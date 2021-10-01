@@ -5,9 +5,9 @@
 
 
 
-<img src="Screenshot_2021-01-10-16-53-30-18.jpg" height="400px" width="500px"><br />
+<img src="Screenshot_2021-01-10-16-53-30-18.jpg" height="180px" width="380px"><br />
 
-<img src="Screenshot_2021-01-10-16-53-20-46.jpg" ><br />
+<img src="Screenshot_2021-01-10-16-53-20-46.jpg" height="400px" width="500px"><br />
 <img src="Screenshot_2021-01-10-16-53-14-54.jpg" ><br />
 <img src="Screenshot_2021-01-10-16-53-09-94.jpg" ><br />
 
