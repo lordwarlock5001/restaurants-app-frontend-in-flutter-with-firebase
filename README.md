@@ -2,6 +2,11 @@
 <h3>Main Page With Frames:</h3>
 
 <p>It is my personal project, this app shows nearby restaurants and menu cards with ratings.<p/>
+<ol>
+  <li> flutter</li>
+  <li> firebase firestore</li>
+  <li> firebase authencation</li>
+  </ol>
 
 
 
